@@ -48,7 +48,7 @@
   place: Hong Kong, China
   tags: [SEC, PRIV]
 
-- name: USENIX-Security
+- name: USENIX Security
   description: USENIX Security Symposium
   year: 2022
   link: https://www.usenix.org/conference/usenixsecurity22
@@ -64,7 +64,7 @@
 - name: ESORICS
   description: European Symposium on Research in Computer Security
   year: 2021
-  link: https://esorics2021.athene-center.de/call-for-papers.php
+  link: https://esorics2021.athene-center.de/
   deadline: "2021-05-12 23:59"
   timezone: Etc/GMT-1
   comment: Title and abstract deadline on May 5
@@ -73,21 +73,20 @@
   tags: [SEC, PRIV]
 
 - name: SOUPS
-  description: Usenix Symposium on Usable Security and Privacy
+  description: USENIX Symposium on Usable Security and Privacy (co-located with USENIX Security)
   year: 2021
   link: https://www.usenix.org/conference/soups2021
   deadline: "2021-02-25 23:59"
-  comment: Collocated with Usenix Security; Paper registration due Feb 18 AoE.
+  comment: Paper registration due Feb 18 AoE.
   date: August 8–10
   place: Vancouver, Canada
   tags: [SEC, PRIV]
 
 - name: WPES
-  description: Workshop on Privacy in the Electronic Society
+  description: Workshop on Privacy in the Electronic Society (co-located with ACM CCS)
   year: 2020
   link: https://www.wpes.tech/2020/
   deadline: "2020-07-23 23:59"
-  comment: Collocated with ACM CCS
   date: "November 9"
   place: Orlando, USA
   timezone: Etc/GMT+11
