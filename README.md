@@ -26,17 +26,18 @@ Example record:
 
 Descriptions of the fields:
 
-| Field name    | Description                                                 |
-| ------------- | ----------------------------------------------------------- |
-| `name`\*      | Short conference name, without year                         |
-| `description` | Description, or long name                                   |
-| `year`\*      | Year the conference is happening                            |
-| `link`\*      | URL to the conference home page                             |
-| `deadline`\*  | Deadline, or list of deadlines. (Gory details below)        |
-| `timezone`    | Timezone in [tz][1] format. By default is UTC-12 ([AoE][2]) |
-| `date`        | When the conference is happening                            |
-| `place`       | Where the conference is happening                           |
-| `tags`        | One or multiple tags: `SE`, `TEST`, `SEC`, or `PRIV`        |
+| Field name    | Description                                                             |
+| ------------- | ----------------------------------------------------------------------- |
+| `name`\*      | Short conference name, without year                                     |
+| `description` | Description, or long name                                               |
+| `year`\*      | Year the conference is happening                                        |
+| `link`\*      | URL to the conference home page                                         |
+| `deadline`\*  | Deadline, or list of deadlines. "TBA" if not announced. (details below) |
+| `timezone`    | Timezone in [tz][1] format. By default is UTC-12 ([AoE][2])             |
+| `comment`     | Additional info on the deadline, e.g. a separate Abstract deadline      |
+| `date`        | When the conference is happening                                        |
+| `place`       | Where the conference is happening                                       |
+| `tags`        | One or multiple tags: `SE`, `TEST`, `SEC`, `PRIV`, or `AUTO`            |
 
 Fields marked with asterisk (\*) are required.
 
