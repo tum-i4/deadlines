@@ -1,3 +1,85 @@
+# TODO: core-ranking field
+# TODO: organization field
+
+# Software Engineering
+
+- name: ICSE
+  description: International Conference on Software Engineering
+  year: 2022
+  link: https://conf.researchr.org/home/icse-2022
+  deadline: "TBA"
+  date: May 21–29
+  place: Pittsburgh, USA
+  tags: [SE]
+
+- name: ESEM
+  description: Empirical Software Engineering and Measurement
+  year: 2021
+  link: https://conf.researchr.org/home/esem-2021
+  deadline: "2021-04-12 23:59"
+  date: October 11–15
+  place: Bari, Italy
+  tags: [SE]
+
+- name: EASE
+  description: Evaluation and Assessment in Software Engineering
+  year: 2021
+  link: https://www.ntnu.edu/ease2021
+  deadline: "2021-03-05 23:59"
+  date: June 21–23
+  place: Virtual
+  tags: [SE]
+
+- name: OOPSLA
+  description: Object Oriented Programming Systems Languages and Applications (co-located with SPLASH)
+  year: 2021
+  link: https://2021.splashcon.org/track/splash-2021-oopsla
+  deadline: "2021-04-16 23:59"
+  date: October 17–22
+  place: Chicago, USA
+  tags: [SE]
+
+- name: ASE
+  description: IEEE/ACM International Conference on Automated Software Engineering
+  year: 2021
+  link: https://conf.researchr.org/home/ase-2021
+  deadline: "2021-04-23 23:59"
+  comment: Abstract deadline on 16 April
+  date: September 21–25
+  place: Virtual
+  tags: [SE]
+
+# Testing
+
+- name: ISSTA
+  description: ACM SIGSOFT International Symposium on Software Testing and Analysis
+  year: 2021
+  core-rank: A
+  link: https://conf.researchr.org/home/issta-2021
+  deadline: "2021-01-29 23:59"
+  date: July 12–16
+  place: Aarhus, Denmark
+  tags: [TEST]
+
+- name: ICST
+  description: IEEE International Conference on Software Testing, Verification and Validation
+  year: 2021
+  link: https://icst2021.icmc.usp.br/
+  deadline: "2020-10-19 23:59"
+  date: April 12–16
+  place: Virtual
+  tags: [TEST]
+
+- name: ISSRE
+  description: International Symposium on Software Reliability Engineering
+  year: 2021
+  link: http://2021.issre.net/
+  deadline: "2021-05-07 23:59"
+  comment: Abstract deadline on 30 April
+  date: October 25–28
+  place: Wuhan China
+  tags: [TEST]
+
 # Security and Privacy
 
 - name: S&P
@@ -9,7 +91,7 @@
     - "2021-04-15 23:59"
     - "2021-08-19 23:59"
     - "2021-12-02 23:59"
-  date: "May 22 – 26 2022"
+  date: May 22 – 26 2022
   place: San Francisco, USA
   tags: [SEC, PRIV]
 
@@ -18,7 +100,7 @@
   year: 2021
   link: https://www.ieee-security.org/TC/EuroSP2021/
   deadline: "2020-11-05 23:59"
-  date: "September 7–11"
+  date: September 7–11
   place: Vienna, Austria
   tags: [SEC, PRIV]
 
@@ -30,7 +112,7 @@
     - "2021-01-20 23:59"
     - "2021-05-06 23:59"
   comment: 2 review cycles
-  date: "November 14–19"
+  date: November 14–19
   place: Seoul, South Korea
   tags: [SEC, PRIV]
 
@@ -43,7 +125,7 @@
     - "2020-12-11 23:59"
   timezone: "Etc/GMT+12"
   comment: 2 review cycles
-  date: "June 7–11"
+  date: June 7–11
   place: Hong Kong, China
   tags: [SEC, PRIV]
 
@@ -56,7 +138,7 @@
     - "2021-10-12 23:59"
     - "2022-02-01 23:59"
   comment: 3 review cycles
-  date: "August 10–12"
+  date: August 10–12
   place: Boston, MA, USA.
   tags: [SEC, PRIV]
 
@@ -86,9 +168,9 @@
   year: 2020
   link: https://www.wpes.tech/2020/
   deadline: "2020-07-23 23:59"
-  date: "November 9"
-  place: Orlando, USA
   timezone: Etc/GMT+11
+  date: November 9
+  place: Orlando, USA
   tags: [PRIV]
 
 - name: PETS
@@ -100,8 +182,19 @@
     - "%y-08-31 23:59"
     - "%y-11-30 23:59"
     - "%y-02-28 23:59"
-  comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
+  comment: Rolling deadline every quarter
   date: July 12–16
   place: Virtual
   tags: [PRIV]
+
+# Automotive
+
+- name: ITSC
+  description: IEEE International Conference on Intelligent Transportation
+  year: 2021
+  link: https://2021.ieee-itsc.org
+  deadline: "2021-03-31 23:59"
+  date: September 19–22
+  place: Indianapolis, USA
+  tags: [AUTO]
