@@ -36,7 +36,7 @@ Descriptions of the fields:
 | `timezone`    | Timezone in [tz][1] format. By default is UTC-12 ([AoE][2]) |
 | `date`        | When the conference is happening                            |
 | `place`       | Where the conference is happening                           |
-| `tags`        | One or multiple tags: `SE`, `PRIV`, or `SEC`                |
+| `tags`        | One or multiple tags: `SE`, `TEST`, `SEC`, or `PRIV`        |
 
 Fields marked with asterisk (\*) are required.
 
