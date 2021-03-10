@@ -1,13 +1,10 @@
-title: Security and Privacy Conference Deadlines
-description: Countdowns to top Security and Privacy conference deadlines.
-author: Bogdan Kulynych
+title: SSE Conference Deadlines
+description: Countdowns to top conference deadlines.
+author: Valentin Zieglmeier
 
-domain: "sec-deadlines.github.io"
+domain: "deadlines.sse.in.tum.de"
 baseurl: ""
 
 twitter_username: hiddenmarkov
-github_username: sec-deadlines
-github_repo: sec-deadlines
-
-markdown: kramdown
-
+github_username: tum-i4
+github_repo: deadlines
