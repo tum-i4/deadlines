@@ -1,10 +1,11 @@
----
----
+
 $(function() {
   deadlineByConf = {};
 
   {% for conf in site.data.conferences %}
+
   {% assign conf_id = conf.name | append: conf.year | slugify %}
+
   {% if conf.deadline == "TBA" %}
   $('#{{ conf_id }} .timer').html("TBA");
   $('#{{ conf_id }} .deadline-time').html("TBA");
