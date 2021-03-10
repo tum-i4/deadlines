@@ -7,3 +7,5 @@
   tag: SEC
 - name: Privacy
   tag: PRIV
+- name: Transportation
+  tag: AUTO
