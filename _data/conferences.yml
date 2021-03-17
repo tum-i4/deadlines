@@ -21,6 +21,15 @@
   place: Bari, Italy
   tags: [SE]
 
+- name: ESEM (Emerging Results)
+  description: Empirical Software Engineering and Measurement
+  year: 2021
+  link: https://conf.researchr.org/track/esem-2021/esem-2021-emerging-results-and-vision-papers
+  deadline: "2021-06-21 23:59"
+  date: October 11–15
+  place: Bari, Italy
+  tags: [SE]
+
 - name: EASE
   description: Evaluation and Assessment in Software Engineering
   year: 2021
