@@ -49,6 +49,53 @@
   place: Virtual
   tags: [SE]
 
+- name: ASE (Industry Track)
+  description: IEEE/ACM International Conference on Automated Software Engineering
+  year: 2021
+  link: https://conf.researchr.org/track/ase-2021/ase-2021-industry-showcase
+  deadline: "2021-06-11 23:59"
+  date: September 21–25
+  place: Virtual
+  tags: [SE]
+
+- name: ESEC/FSE
+  description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+  year: 2021
+  link: https://2021.esec-fse.org/track/fse-2021-papers
+  deadline: "2021-02-25 23:59"
+  date: August 23-27
+  place: Virtual
+  tags: [SE]
+
+- name: ESEC/FSE (Industry Track)
+  description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+  year: 2021
+  link: https://2021.esec-fse.org/track/fse-2021-industry
+  deadline: "2021-05-06 23:59"
+  date: August 23-27
+  place: Virtual
+  tags: [SE]
+
+- name: ICSME
+  description: International Conference on Software Maintenance and Evolution
+  year: 2021
+  link: https://icsme2021.github.io/
+  deadline: "2021-04-29 23:59"
+  comment: Abstract deadline on 26 April
+  date: September 27-30
+  place: Virtual
+  tags: [SE]
+
+- name: ICSME (Industry Track)
+  description: International Conference on Software Maintenance and Evolution
+  year: 2021
+  link: https://icsme2021.github.io/cfp/IndustryTrack.html
+  deadline: "2021-05-30 23:59"
+  comment: Abstract deadline on 26 May
+  date: September 27-30
+  place: Virtual
+  tags: [SE]
+
 # Testing
 
 - name: ISSTA
