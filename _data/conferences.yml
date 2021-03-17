@@ -39,7 +39,7 @@
   place: Chicago, USA
   tags: [SE]
 
-- name: ASE (Research Track)
+- name: ASE
   description: IEEE/ACM International Conference on Automated Software Engineering
   year: 2021
   link: https://conf.researchr.org/home/ase-2021
@@ -58,7 +58,7 @@
   place: Virtual
   tags: [SE]
 
-- name: ESEC/FSE (Research Track)
+- name: ESEC/FSE
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
   year: 2021
   link: https://2021.esec-fse.org/track/fse-2021-papers
@@ -76,7 +76,7 @@
   place: Virtual
   tags: [SE]
 
-- name: ICSME (Research Track)
+- name: ICSME
   description: International Conference on Software Maintenance and Evolution
   year: 2021
   link: https://icsme2021.github.io/
