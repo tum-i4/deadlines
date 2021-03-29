@@ -136,6 +136,15 @@
   date: October 25–28
   place: Wuhan China
   tags: [TEST]
+  
+- name: AITest
+  description: IEEE Third International Conference On Artificial Intelligence Testing (AITest 2021)
+  year: 2021
+  link: http://ieeeaitests.com/
+  deadline: "2021-04-30 23:59"
+  date: August 23–26
+  place: Virtual
+  tags: [TEST]
 
 # Security and Privacy
 
