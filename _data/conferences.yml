@@ -120,10 +120,10 @@
 
 - name: ICST
   description: IEEE International Conference on Software Testing, Verification and Validation
-  year: 2021
-  link: https://icst2021.icmc.usp.br/
-  deadline: "2020-10-19 23:59"
-  date: April 12–16
+  year: 2022
+  link: https://icst2022.vrain.upv.es/
+  deadline: "2020-09-20 23:59"
+  date: April 04–13
   place: Virtual
   tags: [TEST]
 
