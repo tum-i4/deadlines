@@ -86,38 +86,53 @@ $(function() {
   // Reorder list
   confs = $('.conf');
   confs.detach().sort(function(a, b) {
-    var today = moment();
-    var a = deadlineByConf[a.id];
-    var b = deadlineByConf[b.id];
-    var diff1 = today.diff(a)
-    var diff2 = today.diff(b)
-    if (a == null && b == null) {
+    // Target sorting:
+    // dates after today in ascending order
+    // null values
+    // dates before today in descending order
+
+    const aDate = deadlineByConf[a.id];
+    const bDate = deadlineByConf[b.id];
+
+    if (aDate === bDate || aDate.isSame(bDate)) {
       return 0;
     }
-    if (a == null && diff2 > 0) {
+
+    const today = moment();
+
+    // Sort null values to the middle
+    if (aDate == null) {
+      if (today.isBefore(bDate)) {
+        return +1;
+      }
+
       return -1;
     }
-    if (a == null && diff2 < 0) {
+    if (bDate == null) {
+      if (today.isBefore(aDate)) {
+        return -1;
+      }
+
       return +1;
     }
-    if (b == null && diff1 > 0) {
-      return +1;
+
+    // Effectively calculates (today - other)
+    const tDiffA = today.diff(aDate);
+    const tDiffB = today.diff(bDate);
+
+    // Sort remaining values ascending if upcoming, descending otherwise
+    //   Both after today (upcoming): ascending
+    if (tDiffA <= 0 && tDiffB <= 0) {
+      return aDate.diff(bDate);
     }
-    if (b == null && diff1 < 0) {
-      return -1;
+    //   Both before today (past): descending
+    if (tDiffA > 0 && tDiffB > 0) {
+      return bDate.diff(aDate);
     }
-    if (diff1 < 0 && diff2 > 0) {
-      return -1;
-    }
-    if (diff1 > 0 && diff2 < 0) {
-      return +1;
-    }
-    if (diff1 < 0 && diff2 < 0) {
-      return -1 ? diff1 < diff2 : +1;
-    }
-    if (diff1 > 0 && diff2 > 0) {
-      return -1 ? a < b : +1;
-    }
+
+    // Remaining cases: (a < today < b)  and  (b < today < a)
+    // Here, we sort descending to move upcoming dates to the front.
+    return bDate.diff(aDate);
   });
   $('.conf-container').append(confs);
 
