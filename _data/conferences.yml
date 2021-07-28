@@ -262,3 +262,14 @@
   date: September 19–22
   place: Indianapolis, USA
   tags: [AUTO]
+
+# Interdisciplinary
+
+- name: FAccT
+  description: ACM Conference on Fairness, Accountability, and Transparency
+  year: 2021
+  link: https://facctconference.org/2021/index.html
+  deadline: "2020-10-07 23:59"
+  date: March 3–10
+  place: Virtual
+  tags: [SE, SEC, PRIV]
