@@ -152,11 +152,11 @@
   description: IEEE Symposium on Security and Privacy
   year: 2022
   link: https://www.ieee-security.org/TC/SP2022/
-  comment: "Three deadlines: April, August, December"
   deadline:
     - "2021-04-15 23:59"
     - "2021-08-19 23:59"
     - "2021-12-02 23:59"
+  comment: "Three review cycles: April, August, December"
   date: May 22 – 26 2022
   place: San Francisco, USA
   tags: [SEC, PRIV]
@@ -177,7 +177,7 @@
   deadline:
     - "2021-01-20 23:59"
     - "2021-05-06 23:59"
-  comment: 2 review cycles
+  comment: "Two review cycles: January, May"
   date: November 14–19
   place: Seoul, South Korea
   tags: [SEC, PRIV]
@@ -189,7 +189,7 @@
   deadline:
     - "2021-07-30 23:59"
     - "2021-11-19 23:59"
-  comment: 2 review cycles
+  comment: "Two review cycles: July, November"
   date: May 30 – June 3
   place: Nagasaki, Japan
   tags: [SEC, PRIV]
@@ -202,7 +202,7 @@
     - "2021-06-08 23:59"
     - "2021-10-12 23:59"
     - "2022-02-01 23:59"
-  comment: 3 review cycles
+  comment: "Three review cycles: June, October, February"
   date: August 10–12
   place: Boston, MA, USA.
   tags: [SEC, PRIV]
