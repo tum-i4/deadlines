@@ -49,6 +49,18 @@
   place: Chicago, USA
   tags: [SE]
 
+- name: ECOOP
+  description: European Conference on Object-Oriented Programming
+  year: 2022
+  link: https://2022.ecoop.org/
+  deadline:
+    - "2021-12-01 12:00"
+    - "2022-03-01 12:00"
+  comment: "Two review cycles: December, March"
+  date: June 6–10
+  place: Berlin, Germany
+  tags: [SE]
+
 - name: ASE
   description: IEEE/ACM International Conference on Automated Software Engineering
   year: 2021
