@@ -79,6 +79,12 @@
                 <br />
                 {{conf.date | replace: '-', '–'}}
                 {% if conf.place %} // {{conf.place}}{% endif %}
+                {% if conf.rank %} //
+                  Rank
+                  <a
+                    href="http://portal.core.edu.au/conf-ranks/?by=all&source=all&sort=atitle&page=1&search={{ conf.name | url_encode }}"
+                  >{{conf.rank}}</a>
+                {% endif %}
                 <br />
               </div>
             </div>
