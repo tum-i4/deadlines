@@ -78,9 +78,7 @@
                 {{ conf.description }}
                 <br />
                 {{conf.date | replace: '-', '–'}}
-                {% if conf.place %}//
-                  <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>
-                {% endif %}
+                {% if conf.place %} // {{conf.place}}{% endif %}
                 <br />
               </div>
             </div>
