@@ -312,3 +312,15 @@
   place: Seoul, Korea
   rank: unranked
   tags: [SE, HCI, PRIV]
+
+- name: CSCW
+  description: ACM Conference on Computer-Supported Cooperative Work and Social Computing
+  year: 2022
+  link: https://cscw.acm.org/2022/index.html
+  deadline:
+    - "2021-07-15 23:59"
+    - "2022-01-15 23:59"
+  date: November 12–16
+  place: Taipei, Taiwan
+  rank: A
+  tags: [SE, HCI]
