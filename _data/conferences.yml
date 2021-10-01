@@ -301,7 +301,7 @@
   rank: unranked
   tags: [AUTO]
 
-# Interdisciplinary
+# Human Factors
 
 - name: FAccT
   description: ACM Conference on Fairness, Accountability, and Transparency
@@ -311,4 +311,4 @@
   date: March 3–10
   place: Virtual
   rank: unranked
-  tags: [SE, SEC, PRIV]
+  tags: [SE, HCI, PRIV]
