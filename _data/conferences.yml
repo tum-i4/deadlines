@@ -69,12 +69,12 @@
 
 - name: ASE
   description: IEEE/ACM International Conference on Automated Software Engineering
-  year: 2021
-  link: https://conf.researchr.org/home/ase-2021
-  deadline: "2021-04-23 23:59"
-  comment: Abstract deadline on 16 April
-  date: September 21–25
-  place: Virtual
+  year: 2022
+  link: https://conf.researchr.org/track/ase-2022
+  deadline: "2022-05-06 23:59"
+  comment: Abstract deadline one week before
+  date: September 26–30
+  place: Ann Arbor, United States
   rank: A*
   tags: [SE]
 
@@ -90,11 +90,11 @@
 
 - name: ESEC/FSE
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-  year: 2021
-  link: https://2021.esec-fse.org/track/fse-2021-papers
-  deadline: "2021-02-25 23:59"
-  date: August 23-27
-  place: Virtual
+  year: 2022
+  link: https://2022.esec-fse.org/
+  deadline: "2022-03-17 23:59"
+  date: November 14–18
+  place: Singapore
   rank: A*
   tags: [SE]
 
@@ -134,12 +134,12 @@
 
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
-  year: 2021
+  year: 2022
   core-rank: A
-  link: https://conf.researchr.org/home/issta-2021
-  deadline: "2021-01-29 23:59"
-  date: July 12–16
-  place: Aarhus, Denmark
+  link: https://conf.researchr.org/home/issta-2022
+  deadline: "2022-01-28 23:59"
+  date: July 18–22
+  place: Daejeon, South Korea
   rank: A
   tags: [TEST]
 
