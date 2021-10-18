@@ -46,11 +46,11 @@
 
 - name: OOPSLA
   description: Object Oriented Programming Systems Languages and Applications (co-located with SPLASH)
-  year: 2021
-  link: https://2021.splashcon.org/track/splash-2021-oopsla
-  deadline: "2021-04-16 23:59"
-  date: October 17–22
-  place: Chicago, USA
+  year: 2022
+  link: https://2022.splashcon.org/track/splash-2022-oopsla
+  deadline: "2022-04-15 23:59"
+  date: November 14–19
+  place: Auckland, New Zealand
   rank: A
   tags: [SE]
 
