@@ -74,7 +74,7 @@
   deadline: "2022-05-06 23:59"
   comment: Abstract deadline one week before
   date: September 26–30
-  place: Ann Arbor, United States
+  place: Ann Arbor, USA
   rank: A*
   tags: [SE]
 
@@ -246,7 +246,7 @@
     - "2022-02-01 23:59"
   comment: "Three review cycles: June, October, February"
   date: August 10–12
-  place: Boston, MA, USA.
+  place: Boston, USA
   rank: A*
   tags: [SEC, PRIV]
 
