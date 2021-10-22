@@ -15,12 +15,12 @@
 
 - name: ESEM
   description: Empirical Software Engineering and Measurement
-  year: 2021
-  link: https://conf.researchr.org/home/esem-2021
-  deadline: "2021-05-15 23:59"
-  comment: Abstract deadline on 8 May
-  date: October 11–15
-  place: Bari, Italy
+  year: 2022
+  link: https://conf.researchr.org/home/esem-2022
+  deadline: "2022-05-02 23:59"
+  comment: Abstract deadline on 25 April
+  date: September 19–23
+  place: Helsinki, Finland
   rank: A
   tags: [SE]
 
