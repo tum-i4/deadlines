@@ -110,12 +110,12 @@
 
 - name: ICSME
   description: International Conference on Software Maintenance and Evolution
-  year: 2021
-  link: https://icsme2021.github.io/
-  deadline: "2021-04-29 23:59"
-  comment: Abstract deadline on 26 April
-  date: September 27–30
-  place: Virtual
+  year: 2022
+  link: https://cyprusconferences.org/icsme2022
+  deadline: "2022-04-01 23:59"
+  comment: Abstract deadline on 25 March
+  date: October 03–07
+  place: Limassol, Cyprus
   rank: A
   tags: [SE]
 
