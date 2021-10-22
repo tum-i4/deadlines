@@ -150,6 +150,17 @@
   rank: A
   tags: [SE]
 
+- name: MSR
+  description: Mining Software Repositories Conference
+  year: 2022
+  link: https://conf.researchr.org/home/msr-2022
+  deadline: "2022-01-20 23:59"
+  comment: Abstract deadline on 17 January
+  date: May 23–24
+  place: Pittsburgh, USA
+  rank: A
+  tags: [SE]
+
 # Testing
 
 - name: ISSTA
