@@ -37,7 +37,11 @@ We get from our parent:
 {%- endif -%}
 {%- endcomment -%}
 
-{%- assign timezone=conf.timezone -%}
+{%- if conf.timezone -%}
+	{%- assign timezone=conf.timezone -%}
+{%- else -%}
+	{%- assign timezone="Etc/GMT+12" -%}
+{%- endif -%}
 
 {%- include ics_2_build_event -%}
 

@@ -7,11 +7,18 @@ and from our parent:
 {% endcomment -%}
 
 
+{%- comment -%} If the timezone is UTC, TZID must not be specified. {%- endcomment -%}
+{%- capture timezone_string -%}
+    {%- if timezone != "UTC" -%}
+        ;TZID={{ timezone }}
+    {%- endif -%}
+{%- endcapture -%}
+
 BEGIN:VEVENT
 SUMMARY:{{ conf.name }} {{ conf.year }} submission deadline
 UID:{{ event_uid }}
 ORGANIZER:deadlines.sse.in.tum.de
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
-DTSTART;TZID={{ timezone }}:{{ deadline | date: "%Y%m%dT%H%M%S" }}
+DTSTART{{ timezone_string }}:{{ deadline | date: "%Y%m%dT%H%M%S" }}
 END:VEVENT
 
