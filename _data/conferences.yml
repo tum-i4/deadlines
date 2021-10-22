@@ -140,6 +140,16 @@
   rank: A
   tags: [SE]
 
+- name: ICPC
+  description: International Conference on Program Comprehension
+  year: 2022
+  link: https://conf.researchr.org/home/icpc-2022
+  deadline: "2022-01-18 23:59"
+  date: May 21–22
+  place: Pittsburgh, USA
+  rank: A
+  tags: [SE]
+
 # Testing
 
 - name: ISSTA
