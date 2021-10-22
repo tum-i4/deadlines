@@ -1,0 +1,44 @@
+{%- comment -%}
+We get from our parent:
+	deadline      = either conf.deadline or each single deadline
+	sanitized_uid = a unique string per event without whitespaces
+{%- endcomment -%}
+
+
+{%- if deadline contains "%" -%}
+
+{%- comment -%} Date templates -- currently not supported {%- endcomment -%}
+
+{%- elsif deadline contains "TBA" -%}
+
+{%- comment -%} TBA for date -- currently not supported {%- endcomment -%}
+
+{%- else -%} {%- comment -%} Regular date {%- endcomment -%}
+
+{%- comment -%} TIMEZONE LOGIC TO BE IMPLEMENTED
+
+{%- if conf.timezone contains "UTC" -%}
+	{%- assign tz = conf.timezone | split: "UTC" -%}
+	{%- if tz[1] contains "-" -%}
+	    {%- assign tz = tz[1] | replace: "-", "+" -%}
+
+	{%- else if tz[1] contains "+" -%}
+	    {%- assign tz = tz[1] | replace: "+", "-" -%}
+
+	{%- else -%}
+        {%- assign tz = tz[1] -%}
+
+	{%- endif -%}
+    {%- capture timezone -%} Etc/GMT{{ tz }} {%- endcapture -%}
+
+{%- else -%}
+    {%- assign timezone=conf.timezone -%}
+
+{%- endif -%}
+{%- endcomment -%}
+
+{%- assign timezone=conf.timezone -%}
+
+{%- include ics_2_build_event -%}
+
+{% endif -%}

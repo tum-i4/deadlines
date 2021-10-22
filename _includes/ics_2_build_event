@@ -1,0 +1,17 @@
+{% comment %}
+We get (inherited):
+	deadline
+	sanitized_uid
+and from our parent:
+    timezone      = The formatted timezone string
+{% endcomment -%}
+
+
+BEGIN:VEVENT
+SUMMARY:{{ conf.name }} {{ conf.year }} submission deadline
+UID:{{ event_uid }}
+ORGANIZER:deadlines.sse.in.tum.de
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;TZID={{ timezone }}:{{ deadline | date: "%Y%m%dT%H%M%S" }}
+END:VEVENT
+
