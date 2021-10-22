@@ -20,5 +20,6 @@ UID:{{ event_uid }}
 ORGANIZER:deadlines.sse.in.tum.de
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART{{ timezone_string }}:{{ deadline | date: "%Y%m%dT%H%M%S" }}
+DURATION:PT0M
 END:VEVENT
 
