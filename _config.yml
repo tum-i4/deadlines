@@ -7,3 +7,5 @@ baseurl: ""
 
 github_username: tum-i4
 github_repo: deadlines
+
+include: ["ics"]
