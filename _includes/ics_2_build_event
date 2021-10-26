@@ -16,6 +16,10 @@ and from our parent:
 
 BEGIN:VEVENT
 SUMMARY:{{ conf.name }} {{ conf.year }} submission deadline
+{%- if conf.comment %}
+DESCRIPTION:{{ conf.comment }}
+{%- endif %}
+CATEGORIES:{{ conf.tags | join: "," }}
 UID:{{ event_uid }}
 ORGANIZER:deadlines.sse.in.tum.de
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
