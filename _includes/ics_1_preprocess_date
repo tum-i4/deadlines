@@ -9,6 +9,20 @@ We get from our parent:
 
 {%- comment -%} Date templates -- currently not supported {%- endcomment -%}
 
+{%- assign deadline_template = deadline -%}
+{%- assign original_event_uid = event_uid -%}
+
+{%- assign year = site.time | date: "%y" | abs -%}
+{%- assign next_year = year | plus: 1 -%}
+
+{%- assign deadline = deadline_template | replace: "%y", {{year}} -%}
+{%- capture event_uid -%} {{ original_event_uid }}_{{year}} {%- endcapture -%}
+{%- include ics_2_build_event -%}
+
+{%- assign deadline = deadline_template | replace: "%y", {{next_year}} -%}
+{%- capture event_uid -%} {{ original_event_uid }}_{{next_year}} {%- endcapture -%}
+{%- include ics_2_build_event -%}
+
 {%- elsif deadline contains "TBA" -%}
 
 {%- comment -%} TBA for date -- currently not supported {%- endcomment -%}
