@@ -5,6 +5,11 @@ PRODID:-//{{ site.domain }}//sse-deadlines//EN
 X-PUBLISHED-TTL:PT1H
 
 {% for conf in site.data.conferences -%}
+    {%- comment -%} If tag_filter is set, skip entries that are not matched. {%- endcomment -%}
+    {%- unless nil == page.tag_filter or conf.tags contains page.tag_filter -%}
+        {%- continue -%}
+    {%- endunless -%}
+
     {%- capture sanitized_uid -%} {{ conf.name | replace: " ", "" }}-{{conf.year}} {%- endcapture -%}
 
     {%- if conf.deadline.first -%}{%- comment -%} Array for deadline {%- endcomment -%}
