@@ -22,11 +22,7 @@ $(function() {
   while (rawDeadlines.length > 0) {
     var rawDeadline = rawDeadlines.pop();
     // check if date is template
-    if (rawDeadline.indexOf('%m') >= 0) {
-      for (var m = 1; m <= 12; m++) {
-        rawDeadlines.push(rawDeadline.replace('%m', m < 10 ? '0' + m : m));
-      }
-    } else if (rawDeadline.indexOf('%y') >= 0) {
+    if (rawDeadline.indexOf('%y') >= 0) {
       year = parseInt(moment().year());
       rawDeadlines.push(rawDeadline.replace('%y', year));
       rawDeadlines.push(rawDeadline.replace('%y', year + 1));

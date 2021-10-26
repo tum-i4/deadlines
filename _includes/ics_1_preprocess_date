@@ -38,7 +38,7 @@ We get from our parent:
 
 {%- if deadline contains "%" -%}
 
-	{%- comment -%} Date templates -- month templates currently not supported {%- endcomment -%}
+	{%- comment -%} Date templates -- supports only %y for year {%- endcomment -%}
 
 	{%- assign deadline_template = deadline -%}
 	{%- assign original_event_uid = event_uid -%}
