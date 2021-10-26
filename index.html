@@ -42,7 +42,14 @@
               >.
             </p>
             <p>Last update: {{ site.time | date: "%-d %B %Y" }}</p>
-            <p class="small text-secondary">You can optionally subscribe via <a target="_blank" href="/ics/sse-deadlines.ics">.ics</a>.</p>
+            <p class="small text-secondary">iCalendar feeds:
+              <a target="_blank" href="/sse-deadlines.ics">All Deadlines</a>, or only
+            {%- for type in site.data.types %}
+              <a target="_blank" href="/ics/{{ type.tag }}.ics">{{ type.name }}</a>
+              {%- unless forloop.last %} / {% endunless -%}
+            {%- endfor -%}
+              .
+            </p>
           </div>
         </div>
         <hr />
