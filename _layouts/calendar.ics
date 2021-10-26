@@ -5,25 +5,25 @@ PRODID:-//{{ site.domain }}//sse-deadlines//EN
 X-PUBLISHED-TTL:PT1H
 
 {% for conf in site.data.conferences -%}
-{%- capture sanitized_uid -%} {{ conf.name | replace: " ", "" }}-{{conf.year}} {%- endcapture -%}
+    {%- capture sanitized_uid -%} {{ conf.name | replace: " ", "" }}-{{conf.year}} {%- endcapture -%}
 
-{%- if conf.deadline.first -%}{%- comment -%} Array for deadline {%- endcomment -%}
+    {%- if conf.deadline.first -%}{%- comment -%} Array for deadline {%- endcomment -%}
 
-{%- for single_deadline in conf.deadline -%}
+        {%- for single_deadline in conf.deadline -%}
 
-{%- assign deadline=single_deadline -%}
-{%- capture event_uid -%} {{ sanitized_uid }}-{{ forloop.index }} {%- endcapture -%}
-{%- include ics_1_preprocess_date -%}
+            {%- assign deadline=single_deadline -%}
+            {%- capture event_uid -%} {{ sanitized_uid }}-{{ forloop.index }} {%- endcapture -%}
+            {%- include ics_1_preprocess_date -%}
 
-{%- endfor -%}
+        {%- endfor -%}
 
-{%- else -%}{%- comment -%} Single value for deadline {%- endcomment -%}
+    {%- else -%}{%- comment -%} Single value for deadline {%- endcomment -%}
 
-{%- assign deadline=conf.deadline -%}
-{%- capture event_uid -%} {{ sanitized_uid }} {%- endcapture -%}
-{%- include ics_1_preprocess_date -%}
+        {%- assign deadline=conf.deadline -%}
+        {%- capture event_uid -%} {{ sanitized_uid }} {%- endcapture -%}
+        {%- include ics_1_preprocess_date -%}
 
-{%- endif -%}
+    {%- endif -%}
 
 {%- endfor -%}
 
