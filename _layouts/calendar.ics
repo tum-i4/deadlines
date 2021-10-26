@@ -2,6 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 METHOD:PUBLISH
 PRODID:-//{{ site.domain }}//sse-deadlines//EN
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 
 {% for conf in site.data.conferences -%}
