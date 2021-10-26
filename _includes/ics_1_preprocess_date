@@ -56,7 +56,7 @@ We get from our parent:
 
 {%- elsif deadline contains "TBA" -%}
 
-	{%- comment -%} TBA for date -- currently not supported {%- endcomment -%}
+	{%- comment -%} TBA for date -- no event created {%- endcomment -%}
 
 {%- else -%} {%- comment -%} Regular date {%- endcomment -%}
 
