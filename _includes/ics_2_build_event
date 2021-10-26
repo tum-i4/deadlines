@@ -1,7 +1,7 @@
 {% comment %}
 We get (inherited):
 	deadline
-	sanitized_uid
+	event_uid
 and from our parent:
     timezone      = The formatted timezone string
 {% endcomment -%}

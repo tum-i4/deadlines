@@ -1,7 +1,7 @@
 {%- comment -%}
 We get from our parent:
 	deadline      = either conf.deadline or each single deadline
-	sanitized_uid = a unique string per event without whitespaces
+	event_uid     = a unique string per event without whitespaces
 {%- endcomment -%}
 
 
