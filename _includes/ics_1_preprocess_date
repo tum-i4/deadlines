@@ -34,9 +34,11 @@ We get from our parent:
 {%- endif -%}
 
 
+{%- comment -%} MAIN LOGIC {%- endcomment -%}
+
 {%- if deadline contains "%" -%}
 
-	{%- comment -%} Date templates -- currently not supported {%- endcomment -%}
+	{%- comment -%} Date templates -- month templates currently not supported {%- endcomment -%}
 
 	{%- assign deadline_template = deadline -%}
 	{%- assign original_event_uid = event_uid -%}
