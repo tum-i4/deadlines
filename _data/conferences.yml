@@ -349,9 +349,10 @@
   description: ACM Conference on Fairness, Accountability, and Transparency
   year: 2022
   link: https://facctconference.org/2022/index.html
-  deadline: "2021-12-03 23:59"
-  comment: Abstract deadline on 19 Nov
-  date: June 20–24
+  deadline: "2022-01-14 23:59"
+  timezone: Etc/GMT-9
+  comment: Abstract deadline on 15 Dec
+  date: June 21–24
   place: Seoul, South Korea
   rank: unranked
   tags: [SE, HCI, PRIV]
