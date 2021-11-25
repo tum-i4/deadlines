@@ -161,6 +161,29 @@
   rank: A
   tags: [SE]
 
+- name: SEKE
+  description: International Conference on Software Engineering & Knowledge Engineering
+  year: 2022
+  link: http://ksiresearch.org/seke/seke22.html
+  deadline: "2022-03-01 23:59"
+  timezone: Etc/GMT+5
+  comment: Abstract deadline on 17 January
+  date: July 1-10
+  place: Pittsburgh, USA (Virtual)
+  rank: B
+  tags: [SE]
+
+- name: LREC
+  description:  Language Resources and Evaluation Conference
+  year: 2022
+  link: https://lrec2022.lrec-conf.org/en/
+  deadline: "2022-01-10 23:59"
+  comment: Abstract deadline on 17 January
+  date: June 20-25
+  place: Marseille, France
+  rank: C
+  tags: [SE]
+
 # Testing
 
 - name: ISSTA
@@ -368,3 +391,4 @@
   place: Taipei, Taiwan
   rank: A
   tags: [SE, HCI]
+
