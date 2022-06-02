@@ -13,6 +13,37 @@
   rank: A*
   tags: [SE]
 
+- name: ICSE (SEIP)
+  description: ICSE – Software Engineering in Practice
+  year: 2023
+  link: https://conf.researchr.org/track/icse-2023/icse-2023-SEIP
+  deadline: "2022-10-06 23:59"
+  date: May 14–20
+  place: Melbourne, Australia
+  rank: A*
+  tags: [SE]
+
+- name: ICSE (SEIS)
+  description: ICSE – Software Engineering in Society
+  year: 2023
+  link: https://conf.researchr.org/track/icse-2023/icse-2023-SEIS
+  deadline: "2022-10-06 23:59"
+  date: May 14–20
+  place: Melbourne, Australia
+  rank: A*
+  tags: [SE]
+
+- name: ICSE (NIER)
+  description: ICSE – New Ideas and Emerging Results
+  year: 2023
+  link: https://conf.researchr.org/track/icse-2023/icse-2023-NIER
+  deadline: "2022-10-06 23:59"
+  comment: Short papers only (4 pages)
+  date: May 14–20
+  place: Melbourne, Australia
+  rank: A*
+  tags: [SE]
+
 - name: ESEM
   description: Empirical Software Engineering and Measurement
   year: 2022
