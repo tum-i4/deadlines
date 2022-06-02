@@ -377,6 +377,17 @@
 
 # Human Factors
 
+- name: CHI
+  description: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2023
+  link: https://chi2023.acm.org/
+  deadline: "2022-09-15 23:59"
+  comment: Abstract deadline on 8 September
+  date: April 23–28
+  place: Hamburg, Germany
+  rank: A*
+  tags: [SE, HCI]
+
 - name: FAccT
   description: ACM Conference on Fairness, Accountability, and Transparency
   year: 2022
