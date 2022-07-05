@@ -401,12 +401,13 @@
 
 - name: CSCW
   description: ACM Conference on Computer-Supported Cooperative Work and Social Computing
-  year: 2022
-  link: https://cscw.acm.org/2022/index.html
+  year: 2023
+  link: https://cscw.acm.org/2023/index.html
   deadline:
-    - "2021-07-15 23:59"
-    - "2022-01-15 23:59"
-  date: November 12–16
-  place: Taipei, Taiwan
+    - "%y-07-15 23:59"
+    - "%y-01-15 23:59"
+  comment: Rolling deadline every half year
+  date: October 13-18
+  place: Minneapolis, USA
   rank: A
   tags: [SE, HCI]
