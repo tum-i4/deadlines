@@ -339,12 +339,12 @@
 
 - name: WPES
   description: Workshop on Privacy in the Electronic Society (co-located with ACM CCS)
-  year: 2020
-  link: https://www.wpes.tech/2020/
-  deadline: "2020-07-23 23:59"
-  timezone: Etc/GMT+11
-  date: November 9
-  place: Orlando, USA
+  year: 2022
+  link: https://arc.encs.concordia.ca/wpes22/index.html
+  deadline: "2022-07-16 23:59"
+  timezone: Pacific/Pago_Pago
+  date: November 7
+  place: Los Angeles, USA
   rank: unranked
   tags: [PRIV]
 
