@@ -90,7 +90,7 @@ $(function() {
     const aDate = deadlineByConf[a.id];
     const bDate = deadlineByConf[b.id];
 
-    if (aDate === bDate || aDate.isSame(bDate)) {
+    if (aDate === bDate || aDate?.isSame(bDate)) {
       return 0;
     }
 
