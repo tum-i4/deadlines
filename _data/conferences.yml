@@ -67,21 +67,24 @@
 
 - name: EASE
   description: Evaluation and Assessment in Software Engineering
-  year: 2022
-  link: https://conf.researchr.org/home/ease-2022
-  deadline: "2022-01-31 23:59"
-  date: June 13–15
-  place: Gothenburg, Sweden
+  year: 2023
+  link: https://conf.researchr.org/home/ease-2023
+  deadline: TBA
+  date: June 14–16
+  place: Oulu, Finland
   rank: A
   tags: [SE]
 
 - name: OOPSLA
   description: Object Oriented Programming Systems Languages and Applications (co-located with SPLASH)
-  year: 2022
-  link: https://2022.splashcon.org/track/splash-2022-oopsla
-  deadline: "2022-04-15 23:59"
-  date: November 14–19
-  place: Auckland, New Zealand
+  year: 2023
+  link: https://2023.splashcon.org/track/splash-2023-oopsla
+  deadline:
+    - "2022-10-28 23:59"
+    - "2023-04-14 23:59"
+  comment: "Two review cycles: October, April"
+  date: TBA
+  place: Lisbon, Portugal
   rank: A
   tags: [SE]
 
@@ -100,12 +103,11 @@
 
 - name: ASE
   description: IEEE/ACM International Conference on Automated Software Engineering
-  year: 2022
-  link: https://conf.researchr.org/track/ase-2022
-  deadline: "2022-05-06 23:59"
-  comment: Abstract deadline one week before
-  date: September 26–30
-  place: Ann Arbor, USA
+  year: 2023
+  link: https://conf.researchr.org/home/ase-2023
+  deadline: TBA
+  date: September 11–15
+  place: Kirchberg, Luxembourg
   rank: A*
   tags: [SE]
 
@@ -174,22 +176,21 @@
 
 - name: ICPC
   description: International Conference on Program Comprehension
-  year: 2022
-  link: https://conf.researchr.org/home/icpc-2022
-  deadline: "2022-01-18 23:59"
-  date: May 21–22
-  place: Pittsburgh, USA
+  year: 2023
+  link: https://conf.researchr.org/home/icpc-2023
+  deadline: TBA
+  date: May 14–20
+  place: Melbourne, Australia
   rank: A
   tags: [SE]
 
 - name: MSR
   description: Mining Software Repositories Conference
-  year: 2022
-  link: https://conf.researchr.org/home/msr-2022
-  deadline: "2022-01-20 23:59"
-  comment: Abstract deadline on 17 January
-  date: May 23–24
-  place: Pittsburgh, USA
+  year: 2023
+  link: https://conf.researchr.org/home/msr-2023
+  deadline: TBA
+  date: May 15–16
+  place: Melbourne, Australia
   rank: A
   tags: [SE]
 
@@ -280,11 +281,11 @@
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2022
-  link: https://www.ieee-security.org/TC/EuroSP2022/
-  deadline: "2021-09-22 23:59"
-  date: June 6–10
-  place: Genoa, Italy
+  year: 2023
+  link: https://www.ieee-security.org/TC/EuroSP2023/
+  deadline: "2022-10-26 23:59"
+  date: July 4–6
+  place: Delft, The Netherlands
   rank: NEW
   tags: [SEC, PRIV]
 
@@ -342,12 +343,11 @@
 
 - name: SOUPS
   description: USENIX Symposium on Usable Security and Privacy (co-located with USENIX Security)
-  year: 2021
-  link: https://www.usenix.org/conference/soups2021
-  deadline: "2021-02-25 23:59"
-  comment: Paper registration due Feb 18 AoE.
-  date: August 8–10
-  place: Vancouver, Canada
+  year: 2023
+  link: https://www.usenix.org/conference/soups2023
+  deadline: TBA
+  date: August 6–8
+  place: Anaheim, USA
   rank: B
   tags: [SEC, PRIV]
 
