@@ -224,12 +224,12 @@
 
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
-  year: 2022
+  year: 2023
   core-rank: A
-  link: https://conf.researchr.org/home/issta-2022
-  deadline: "2022-01-28 23:59"
-  date: July 18–22
-  place: Daejeon, South Korea
+  link: https://conf.researchr.org/home/issta-2023
+  deadline: "2022-11-20 23:59"
+  date: July 17–21
+  place: Seattle, US
   rank: A
   tags: [TEST]
 
