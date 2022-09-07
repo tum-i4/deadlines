@@ -266,12 +266,11 @@
 
 - name: AST
   description: International Conference on Automation of Software Test (co-located with ICSE)
-  year: 2022
-  link: https://conf.researchr.org/home/ast-2022
-  deadline: "2022-01-14 23:59"
-  comment: Abstract deadline on 7 January
-  date: May 21–22
-  place: Pittsburgh, US
+  year: 2023
+  link: https://conf.researchr.org/home/ast-2023
+  deadline: "2023-01-16 23:59"
+  date: May 14–20
+  place: Melbourne, Australia
   rank: unranked
   tags: [TEST]
 
