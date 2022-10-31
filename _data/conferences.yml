@@ -145,23 +145,21 @@
 
 - name: ICSME
   description: International Conference on Software Maintenance and Evolution
-  year: 2022
-  link: https://cyprusconferences.org/icsme2022
-  deadline: "2022-04-01 23:59"
-  comment: Abstract deadline on 25 March
-  date: October 03–07
-  place: Limassol, Cyprus
+  year: 2023
+  link: https://conf.researchr.org/home/icsme-2023
+  deadline: TBA
+  date: October 2–6
+  place: Bogotá, Colombia
   rank: A
   tags: [SE]
 
 - name: ICSME (Industry Track)
   description: International Conference on Software Maintenance and Evolution
-  year: 2021
-  link: https://icsme2021.github.io/cfp/IndustryTrack.html
-  deadline: "2021-05-30 23:59"
-  comment: Abstract deadline on 26 May
-  date: September 27–30
-  place: Virtual
+  year: 2023
+  link: https://conf.researchr.org/track/icsme-2023/icsme-2023-industry-track
+  deadline: TBA
+  date: October 2–6
+  place: Bogotá, Colombia
   rank: A
   tags: [SE]
 
