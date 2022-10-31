@@ -46,12 +46,12 @@
 
 - name: ESEM
   description: Empirical Software Engineering and Measurement
-  year: 2022
-  link: https://conf.researchr.org/home/esem-2022
-  deadline: "2022-05-02 23:59"
-  comment: Abstract deadline on 25 April
-  date: September 19–23
-  place: Helsinki, Finland
+  year: 2023
+  link: https://conf.researchr.org/home/esem-2023
+  deadline: "2023-05-02 23:59"
+  comment: Abstract deadline on 14 April
+  date: October 23–27
+  place: New Orleans, USA
   rank: A
   tags: [SE]
 
