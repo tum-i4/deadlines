@@ -91,14 +91,14 @@
 
 - name: ECOOP
   description: European Conference on Object-Oriented Programming
-  year: 2022
-  link: https://2022.ecoop.org/
+  year: 2023
+  link: https://conf.researchr.org/home/ecoop-2023
   deadline:
-    - "2021-12-01 12:00"
-    - "2022-03-01 12:00"
+    - "2022-12-01 12:00"
+    - "2023-03-01 12:00"
   comment: "Two review cycles: December, March"
-  date: June 6–10
-  place: Berlin, Germany
+  date: July 17–21
+  place: Seattle, USA
   rank: A
   tags: [SE]
 
