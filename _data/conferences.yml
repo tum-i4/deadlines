@@ -348,13 +348,12 @@
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
-  year: 2021
-  link: https://esorics2021.athene-center.de/
-  deadline: "2021-05-12 23:59"
-  timezone: Etc/GMT-1
-  comment: Title and abstract deadline on May 5
-  date: October 4–8
-  place: Darmstadt, Germany
+  year: 2023
+  link: https://esorics2023.org/
+  deadline: TBA
+  comment: "Two review cycles: TBA and TBA"
+  date: September 25–29
+  place: The Hague, The Netherlands
   rank: A
   tags: [SEC, PRIV]
 
