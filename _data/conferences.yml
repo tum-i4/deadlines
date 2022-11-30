@@ -441,6 +441,17 @@
   rank: A
   tags: [SE, HCI]
 
+- name: INTERACT
+  description: IFIP TC13 Conference on Human-Computer Interaction
+  year: 2023
+  link: https://interact2023.org/
+  deadline: "2023-01-25 23:59"
+  comment: Abstract deadline on 18 January
+  date: August 28 – September 1
+  place: York, UK + Virtual
+  rank: B
+  tags: [HCI]
+
 - name: CHASE
   description: International Conference on Cooperative and Human Aspects of Software Engineering (co-located with ICSE)
   year: 2023
