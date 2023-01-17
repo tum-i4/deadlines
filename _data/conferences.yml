@@ -136,11 +136,11 @@
 
 - name: ESEC/FSE (Industry Track)
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-  year: 2021
-  link: https://2021.esec-fse.org/track/fse-2021-industry
-  deadline: "2021-05-06 23:59"
-  date: August 23–27
-  place: Virtual
+  year: 2023
+  link: https://2023.esec-fse.org/track/fse-2023-industry
+  deadline: "2023-05-11 23:59"
+  date: November 11–17
+  place: San Francisco, USA
   rank: A*
   tags: [SE]
 
