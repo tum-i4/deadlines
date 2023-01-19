@@ -148,8 +148,9 @@
   description: International Conference on Software Maintenance and Evolution
   year: 2023
   link: https://conf.researchr.org/home/icsme-2023
-  deadline: TBA
-  date: October 2–6
+  deadline: "2023-04-27 23:59"
+  comment: Abstract deadline on 20 April
+  date: October 1–6
   place: Bogotá, Colombia
   rank: A
   tags: [SE]
@@ -158,8 +159,8 @@
   description: International Conference on Software Maintenance and Evolution
   year: 2023
   link: https://conf.researchr.org/track/icsme-2023/icsme-2023-industry-track
-  deadline: TBA
-  date: October 2–6
+  deadline: "2023-07-06 23:59"
+  date: October 1–6
   place: Bogotá, Colombia
   rank: A
   tags: [SE]
