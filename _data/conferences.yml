@@ -5,42 +5,45 @@
 
 - name: ICSE
   description: International Conference on Software Engineering
-  year: 2023
-  link: https://conf.researchr.org/home/icse-2023
-  deadline: "2022-09-01 23:59"
-  date: May 14–20
-  place: Melbourne, Australia
+  year: 2024
+  link: https://conf.researchr.org/home/icse-2024
+  deadline:
+    - "2023-03-29 23:59"
+    - "2023-08-01 23:59"
+  comment: "Two review cycles: March, August"
+  date: April 12–21
+  place: Lisbon, Portugal
   rank: A*
   tags: [SE]
 
 - name: ICSE (SEIP)
   description: ICSE – Software Engineering in Practice
-  year: 2023
-  link: https://conf.researchr.org/track/icse-2023/icse-2023-SEIP
-  deadline: "2022-10-06 23:59"
-  date: May 14–20
-  place: Melbourne, Australia
+  year: 2024
+  link: https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice
+  deadline: "2023-10-06 23:59"
+  date: April 12–21
+  place: Lisbon, Portugal
   rank: A*
   tags: [SE]
 
 - name: ICSE (SEIS)
   description: ICSE – Software Engineering in Society
-  year: 2023
-  link: https://conf.researchr.org/track/icse-2023/icse-2023-SEIS
-  deadline: "2022-10-06 23:59"
-  date: May 14–20
-  place: Melbourne, Australia
+  year: 2024
+  link: https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-society
+  deadline: "2023-09-28 23:59"
+  date: April 12–21
+  place: Lisbon, Portugal
   rank: A*
   tags: [SE]
 
 - name: ICSE (NIER)
   description: ICSE – New Ideas and Emerging Results
-  year: 2023
-  link: https://conf.researchr.org/track/icse-2023/icse-2023-NIER
-  deadline: "2022-10-06 23:59"
+  year: 2024
+  link: https://conf.researchr.org/track/icse-2024/icse-2024-new-ideas-and-emerging-results
+  deadline: "2024-09-14 23:59"
   comment: Short papers only (4 pages)
-  date: May 14–20
-  place: Melbourne, Australia
+  date: April 12–21
+  place: Lisbon, Portugal
   rank: A*
   tags: [SE]
 
