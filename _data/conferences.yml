@@ -117,16 +117,6 @@
   rank: A*
   tags: [SE]
 
-- name: ASE (Industry Track)
-  description: IEEE/ACM International Conference on Automated Software Engineering
-  year: 2021
-  link: https://conf.researchr.org/track/ase-2021/ase-2021-industry-showcase
-  deadline: "2021-06-11 23:59"
-  date: September 21–25
-  place: Virtual
-  rank: A*
-  tags: [SE]
-
 - name: ESEC/FSE
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
   year: 2023
