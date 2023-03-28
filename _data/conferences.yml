@@ -60,11 +60,12 @@
 
 - name: ESEM (Emerging Results)
   description: Empirical Software Engineering and Measurement
-  year: 2021
-  link: https://conf.researchr.org/track/esem-2021/esem-2021-emerging-results-and-vision-papers
-  deadline: "2021-07-16 23:59"
-  date: October 11–15
-  place: Bari, Italy
+  year: 2023
+  link: https://conf.researchr.org/track/esem-2023/esem-2023-emerging-results-vision-and-reflection-papers
+  deadline: "2023-05-02 23:59"
+  comment: Abstract deadline on 24 April
+  date: October 23–27
+  place: New Orleans, USA
   rank: A
   tags: [SE]
 
