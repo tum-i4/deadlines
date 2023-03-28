@@ -350,8 +350,10 @@
   description: European Symposium on Research in Computer Security
   year: 2023
   link: https://esorics2023.org/
-  deadline: TBA
-  comment: "Two review cycles: TBA and TBA"
+  deadline:
+    - "2023-01-22 23:59"
+    - "2023-05-28 23:59"
+  comment: "Two review cycles: January and May"
   date: September 25–29
   place: The Hague, The Netherlands
   rank: A
