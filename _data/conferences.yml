@@ -406,12 +406,12 @@
 
 - name: CHI
   description: ACM CHI Conference on Human Factors in Computing Systems
-  year: 2023
-  link: https://chi2023.acm.org/
-  deadline: "2022-09-15 23:59"
-  comment: Abstract deadline on 8 September
-  date: April 23–28
-  place: Hamburg, Germany
+  year: 2024
+  link: https://chi2024.acm.org/
+  deadline: "2023-09-14 23:59"
+  comment: Abstract deadline on 7 September
+  date: May 11–16
+  place: Honolulu, Hawaii, USA
   rank: A*
   tags: [SE, HCI]
 
