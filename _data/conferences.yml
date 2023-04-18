@@ -458,3 +458,25 @@
   place: Melbourne, Australia
   rank: unranked
   tags: [SE, HCI]
+  
+  - name: PRDC
+  description: IEEE Pacific Rim International Symposium on Dependable Computing
+  year: 2023
+  link: https://prdc.dependability.org/PRDC2023/
+  deadline: "2023-07-21 23:59"
+  comment: Abstract deadline on 15 July
+  date: October 24–27
+  place: Singapore, Singapore
+  rank: B
+  tags: [SE, SEC, PRIV]
+
+- name: ATVA
+  description: International Symposium on Automated Technology for Verification and Analysis
+  year: 2023
+  link: https://atva-conference.org/2023/
+  deadline: "2023-05-04 23:59"
+  comment: Abstract deadline on 27 April
+  date: October 24–27
+  place: Singapore, Singapore
+  rank: B
+  tags: [SE]
