@@ -364,13 +364,11 @@
 
 - name: WPES
   description: Workshop on Privacy in the Electronic Society (co-located with ACM CCS)
-  year: 2022
-  link: https://arc.encs.concordia.ca/wpes22/index.html
-  deadline: "2022-08-01 23:59"
-  comment: Deadline extended from July 16.
-  timezone: Pacific/Pago_Pago
-  date: November 7
-  place: Los Angeles, USA
+  year: 2023
+  link: https://www.wpes2023.conf.kth.se/
+  deadline: "2023-04-27 23:59"
+  date: November 26
+  place: Copenhagen, Denmark
   rank: unranked
   tags: [PRIV]
 
