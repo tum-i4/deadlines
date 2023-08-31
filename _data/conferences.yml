@@ -255,11 +255,11 @@
 
 - name: AST
   description: International Conference on Automation of Software Test (co-located with ICSE)
-  year: 2023
-  link: https://conf.researchr.org/home/ast-2023
-  deadline: "2023-01-16 23:59"
-  date: May 14–20
-  place: Melbourne, Australia
+  year: 2024
+  link: https://conf.researchr.org/home/ast-2024
+  deadline: "2023-11-20 23:59"
+  date: April 15–16
+  place: Lisbon, Portugal
   rank: C
   tags: [TEST]
 
