@@ -206,17 +206,6 @@
   rank: Journal
   tags: [SE, HCI]
 
-- name: SEKE
-  description: International Conference on Software Engineering and Knowledge Engineering
-  year: 2023
-  link: https://ksiresearch.org/seke/seke23.html
-  deadline: "2023-03-01 23:59"
-  timezone: EST
-  date: July 1–10
-  place: San Francisco Bay, USA + Virtual
-  rank: B
-  tags: [SE]
-
 # Testing
 
 - name: ISSTA
