@@ -434,11 +434,11 @@
 
 - name: ITSC
   description: IEEE International Conference on Intelligent Transportation
-  year: 2021
-  link: https://2021.ieee-itsc.org
-  deadline: "2021-03-31 23:59"
-  date: September 19–22
-  place: Indianapolis, USA
+  year: 2024
+  link: https://ieee-itsc.org/2024/
+  deadline: "2024-04-15 23:59"
+  date: September 24–27
+  place: Edmonton, Canada
   rank: unranked
   tags: [AUTO]
 
