@@ -52,13 +52,14 @@ We get from our parent:
 
 	{%- assign deadline = deadline_template | replace: "%y", {{next_year}} -%}
 	{%- capture event_uid -%} {{ original_event_uid }}_{{next_year}} {%- endcapture -%}
+
 	{%- include ics_2_build_event -%}
 
 {%- elsif deadline contains "TBA" -%}
 
-	{%- comment -%} TBA for date -- no event created {%- endcomment -%}
+	{%- comment -%} TBA for date – do not create event {%- endcomment -%}
 
-{%- else -%} {%- comment -%} Regular date {%- endcomment -%}
+{%- else -%} {%- comment -%} Regular date – no preprocessing {%- endcomment -%}
 
 	{%- include ics_2_build_event -%}
 
