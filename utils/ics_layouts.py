@@ -13,7 +13,7 @@ def main():
     types_file: Path = my_parent_dir.joinpath("_data/types.yml")
     ics_layouts_dir: Path = my_parent_dir.joinpath("ics")
 
-    with types_file.open("r") as tf:
+    with types_file.open("r", encoding="utf-8") as tf:
         types = yaml.safe_load(tf)
 
     tags: List[str] = [t["tag"] for t in types]
