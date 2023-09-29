@@ -36,6 +36,16 @@
   rank: A*
   tags: [SE]
 
+  - name: ICSE (SEET)
+  description: ICSE – Software Engineering Education and Training
+  year: 2024
+  link: https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-education-and-training-track
+  deadline: "2023-10-12 23:59"
+  date: April 12–21
+  place: Lisbon, Portugal
+  rank: A*
+  tags: [SE]
+
 - name: ICSE (NIER)
   description: ICSE – New Ideas and Emerging Results
   year: 2024
