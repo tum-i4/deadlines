@@ -2,6 +2,16 @@
 # TODO: list tracks of a conference with the conference
 
 # Software Engineering
+- name: ECSA
+  description: European Conference on Software Architecture
+  year: 2023
+  link: https://conf.researchr.org/home/ecsa-2023
+  deadline: "2023-05-12 23:59"
+  comment: "Abstract deadline is: 2023-05-05 23:59"
+  date: Sep 18–22
+  place: Istanbul, Turkiye
+  rank: A
+  tags: [SE]
 
 - name: ICSE
   description: International Conference on Software Engineering
