@@ -119,22 +119,22 @@
 
 - name: ESEC/FSE
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-  year: 2023
-  link: https://conf.researchr.org/home/fse-2023
-  deadline: "2023-02-02 23:59"
-  comment: Mandatory paper registration on 26 January
-  date: November 11–17
-  place: San Francisco, USA
+  year: 2024
+  link: https://2024.esec-fse.org/
+  deadline: "2023-09-28 23:59"
+  comment: Mandatory paper registration on 21 September
+  date: July 15–19
+  place: Porto de Galinhas, Brazil
   rank: A*
   tags: [SE]
 
 - name: ESEC/FSE (Industry Track)
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-  year: 2023
-  link: https://2023.esec-fse.org/track/fse-2023-industry
-  deadline: "2023-05-11 23:59"
-  date: November 11–17
-  place: San Francisco, USA
+  year: 2024
+  link: https://2024.esec-fse.org/track/fse-2024-industry
+  deadline: "2024-02-08 23:59"
+  date: July 15–19
+  place: Porto de Galinhas, Brazil
   rank: A*
   tags: [SE]
 
