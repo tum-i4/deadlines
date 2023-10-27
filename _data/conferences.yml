@@ -222,14 +222,13 @@
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
   year: 2023
-  core-rank: A
   link: https://conf.researchr.org/home/issta-2023
   deadline:
-    - "2022-11-10 23:59"
-    - "2023-02-16 23:59"
-  comment: "Two review cycles: November, February"
+    - "2023-12-15 23:59"
+    - "2023-04-12 23:59"
+  comment: "Two review cycles: December, April"
   date: July 17–21
-  place: Seattle, US
+  place: Vienna, Austria
   rank: A
   tags: [TEST]
 
@@ -287,6 +286,16 @@
   tags: [TEST]
 
 - name: FTW
+  description: International Workshop on Test Flakiness (co-located with ICSE)
+  year: 2024
+  link: https://conf.researchr.org/home/icse-2024/ftw-2024#the-1st-international-workshop-on-test-flakiness-ftw-2024
+  deadline: "2023-12-07 23:59"
+  date: April 14–20
+  place: Lisbon, Portugal
+  rank: unranked
+  tags: [TEST]
+
+- name: A-MOST
   description: International Workshop on Test Flakiness (co-located with ICSE)
   year: 2024
   link: https://conf.researchr.org/home/icse-2024/ftw-2024#the-1st-international-workshop-on-test-flakiness-ftw-2024
