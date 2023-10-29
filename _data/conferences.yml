@@ -296,10 +296,10 @@
   tags: [TEST]
 
 - name: A-MOST
-  description: International Workshop on Test Flakiness (co-located with ICSE)
+  description: Workshop on Advances in Model Based Testing (co-located with ICSE)
   year: 2024
-  link: https://conf.researchr.org/home/icse-2024/ftw-2024#the-1st-international-workshop-on-test-flakiness-ftw-2024
-  deadline: "2023-12-07 23:59"
+  link: https://conf.researchr.org/home/icst-2024/a-most-2024
+  deadline: "2023-01-29 23:59"
   date: April 14–20
   place: Lisbon, Portugal
   rank: unranked
