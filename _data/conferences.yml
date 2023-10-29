@@ -305,6 +305,16 @@
   rank: unranked
   tags: [TEST]
 
+- name: CCIW
+  description: CI/CD Industry Workshop (co-located with ICST)
+  year: 2024
+  link: https://conf.researchr.org/home/icst-2024/cciw-2024
+  deadline: "2024-01-29 23:59"
+  date: May 27–31
+  place: Toronto, Canada
+  rank: unranked
+  tags: [SE, TEST]
+
 
 # Security and Privacy
 
