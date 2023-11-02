@@ -265,16 +265,6 @@
   rank: A
   tags: [TEST]
 
-- name: AITest
-  description: IEEE Third International Conference On Artificial Intelligence Testing (AITest 2021)
-  year: 2021
-  link: http://ieeeaitests.com/
-  deadline: "2021-04-30 23:59"
-  date: August 23–26
-  place: Virtual
-  rank: unranked
-  tags: [TEST]
-
 - name: AST
   description: International Conference on Automation of Software Test (co-located with ICSE)
   year: 2024
