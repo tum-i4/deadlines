@@ -5,14 +5,14 @@
 
 - name: ICSE
   description: International Conference on Software Engineering
-  year: 2024
-  link: https://conf.researchr.org/home/icse-2024
+  year: 2025
+  link: https://conf.researchr.org/home/icse-2025
   deadline:
-    - "2023-03-29 23:59"
-    - "2023-08-01 23:59"
-  comment: "Two review cycles: March, August"
-  date: April 12–21
-  place: Lisbon, Portugal
+    - "2024-03-22 23:59"
+    - "2024-08-02 23:59"
+  comment: "Two review cycles: March, August; Abstract deadlines one week before the submission deadlines."
+  date: Apri 26 - May 4
+  place: Ottawa, Canada
   rank: A*
   tags: [SE]
 
@@ -21,7 +21,7 @@
   year: 2024
   link: https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice
   deadline: "2023-10-06 23:59"
-  date: April 12–21
+  date: April 14–20
   place: Lisbon, Portugal
   rank: A*
   tags: [SE]
@@ -31,7 +31,7 @@
   year: 2024
   link: https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-society
   deadline: "2023-09-28 23:59"
-  date: April 12–21
+  date: April 14–20
   place: Lisbon, Portugal
   rank: A*
   tags: [SE]
@@ -52,7 +52,7 @@
   link: https://conf.researchr.org/track/icse-2024/icse-2024-new-ideas-and-emerging-results
   deadline: "2023-09-14 23:59"
   comment: Short papers only (4 pages)
-  date: April 12–21
+  date: April 14–20
   place: Lisbon, Portugal
   rank: A*
   tags: [SE]
@@ -81,12 +81,12 @@
 
 - name: EASE
   description: Evaluation and Assessment in Software Engineering
-  year: 2023
-  link: https://conf.researchr.org/home/ease-2023
-  deadline: "2023-01-20 23:59"
-  comment: Abstract deadline on 13 January
-  date: June 14–16
-  place: Oulu, Finland
+  year: 2024
+  link: https://conf.researchr.org/home/ease-2024
+  deadline: "2024-01-12 23:59"
+  comment: Abstract deadline on 11 January
+  date: June 18–21
+  place: Salerno, Italy
   rank: A
   tags: [SE]
 
@@ -118,33 +118,33 @@
 
 - name: ASE
   description: IEEE/ACM International Conference on Automated Software Engineering
-  year: 2023
-  link: https://conf.researchr.org/home/ase-2023
-  deadline: "2023-05-05 23:59"
-  comment: Abstract deadline on 28 April
-  date: September 11–15
-  place: Kirchberg, Luxembourg
+  year: 2024
+  link: https://conf.researchr.org/home/ase-2024
+  deadline: "2024-06-07 23:59"
+  comment: Abstract deadline on 31 May
+  date: October 27–November 1
+  place: Sacramento, California, United States
   rank: A*
   tags: [SE]
 
 - name: ESEC/FSE
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-  year: 2023
-  link: https://conf.researchr.org/home/fse-2023
-  deadline: "2023-02-02 23:59"
-  comment: Mandatory paper registration on 26 January
-  date: November 11–17
-  place: San Francisco, USA
+  year: 2024
+  link: https://2024.esec-fse.org/
+  deadline: "2023-09-28 23:59"
+  comment: Mandatory paper registration on 21 September
+  date: July 15–19
+  place: Porto de Galinhas, Brazil
   rank: A*
   tags: [SE]
 
 - name: ESEC/FSE (Industry Track)
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-  year: 2023
-  link: https://2023.esec-fse.org/track/fse-2023-industry
-  deadline: "2023-05-11 23:59"
-  date: November 11–17
-  place: San Francisco, USA
+  year: 2024
+  link: https://2024.esec-fse.org/track/fse-2024-industry
+  deadline: "2024-02-08 23:59"
+  date: July 15–19
+  place: Porto de Galinhas, Brazil
   rank: A*
   tags: [SE]
 
@@ -231,15 +231,14 @@
 
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
-  year: 2023
-  core-rank: A
-  link: https://conf.researchr.org/home/issta-2023
+  year: 2024
+  link: https://conf.researchr.org/home/issta-2024
   deadline:
-    - "2022-11-10 23:59"
-    - "2023-02-16 23:59"
-  comment: "Two review cycles: November, February"
-  date: July 17–21
-  place: Seattle, US
+    - "2023-12-15 23:59"
+    - "2024-04-12 23:59"
+  comment: "Two review cycles: December, April"
+  date: September 16–20
+  place: Vienna, Austria
   rank: A
   tags: [TEST]
 
@@ -276,25 +275,46 @@
   rank: A
   tags: [TEST]
 
-- name: AITest
-  description: IEEE Third International Conference On Artificial Intelligence Testing (AITest 2021)
-  year: 2021
-  link: http://ieeeaitests.com/
-  deadline: "2021-04-30 23:59"
-  date: August 23–26
-  place: Virtual
-  rank: unranked
-  tags: [TEST]
-
 - name: AST
   description: International Conference on Automation of Software Test (co-located with ICSE)
   year: 2024
   link: https://conf.researchr.org/home/ast-2024
-  deadline: "2023-11-20 23:59"
+  deadline: "2023-12-10 23:59"
   date: April 15–16
   place: Lisbon, Portugal
   rank: C
   tags: [TEST]
+
+- name: FTW
+  description: International Workshop on Test Flakiness (co-located with ICSE)
+  year: 2024
+  link: https://conf.researchr.org/home/icse-2024/ftw-2024#the-1st-international-workshop-on-test-flakiness-ftw-2024
+  deadline: "2023-12-07 23:59"
+  date: April 14–20
+  place: Lisbon, Portugal
+  rank: unranked
+  tags: [TEST]
+
+- name: A-MOST
+  description: Workshop on Advances in Model Based Testing (co-located with ICST)
+  year: 2024
+  link: https://conf.researchr.org/home/icst-2024/a-most-2024
+  deadline: "2024-01-29 23:59"
+  date: May 27–31
+  place: Toronto, Canada
+  rank: unranked
+  tags: [TEST]
+
+- name: CCIW
+  description: CI/CD Industry Workshop (co-located with ICST)
+  year: 2024
+  link: https://conf.researchr.org/home/icst-2024/cciw-2024
+  deadline: "2024-01-29 23:59"
+  date: May 27–31
+  place: Toronto, Canada
+  rank: unranked
+  tags: [SE, TEST]
+
 
 # Security and Privacy
 
@@ -414,11 +434,11 @@
 
 - name: ITSC
   description: IEEE International Conference on Intelligent Transportation
-  year: 2021
-  link: https://2021.ieee-itsc.org
-  deadline: "2021-03-31 23:59"
-  date: September 19–22
-  place: Indianapolis, USA
+  year: 2024
+  link: https://ieee-itsc.org/2024/
+  deadline: "2024-04-15 23:59"
+  date: September 24–27
+  place: Edmonton, Canada
   rank: unranked
   tags: [AUTO]
 
@@ -448,14 +468,14 @@
 
 - name: CSCW
   description: ACM Conference on Computer-Supported Cooperative Work and Social Computing
-  year: 2023
-  link: https://cscw.acm.org/2023/index.html
+  year: 2024
+  link: https://cscw.acm.org/2024/
   deadline:
-    - "%y-07-15 23:59"
-    - "%y-01-15 23:59"
+    - "%y-07-16 23:59"
+    - "%y-01-16 23:59"
   comment: Rolling deadline every half year
-  date: October 13-18
-  place: Minneapolis, USA
+  date: November 9–13
+  place: San José, Costa Rica
   rank: A
   tags: [SE, HCI]
 
