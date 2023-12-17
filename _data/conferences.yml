@@ -36,6 +36,16 @@
   rank: A*
   tags: [SE]
 
+  - name: ICSE (SEET)
+  description: ICSE – Software Engineering Education and Training
+  year: 2024
+  link: https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-education-and-training-track
+  deadline: "2023-10-12 23:59"
+  date: April 12–21
+  place: Lisbon, Portugal
+  rank: A*
+  tags: [SE]
+
 - name: ICSE (NIER)
   description: ICSE – New Ideas and Emerging Results
   year: 2024
@@ -194,12 +204,12 @@
 
 - name: MSR
   description: Mining Software Repositories Conference
-  year: 2023
-  link: https://conf.researchr.org/home/msr-2023
-  deadline: "2023-01-19 23:59"
-  comment: Abstract deadline on 16 January
-  date: May 15–16
-  place: Melbourne, Australia
+  year: 2024
+  link: https://2024.msrconf.org/
+  deadline: "2023-11-17 23:59"
+  comment: Abstract deadline on 14 November
+  date: April 15–16
+  place: Lisbon, Portugal
   rank: A
   tags: [SE]
 

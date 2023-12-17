@@ -1,4 +1,4 @@
-# SSE deadlines countdown
+# SE deadlines countdown
 
 Based on [sec-deadlines](https://sec-deadlines.github.io/) by [@bogdan-kulynych](https://github.com/bogdan-kulynych)
 which is based on [ai-deadlines](https://aideadlin.es) by [@abhshkdz](https://github.com/abhshkdz)
