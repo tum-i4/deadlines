@@ -221,25 +221,22 @@
 
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
-  year: 2024
-  link: https://conf.researchr.org/home/issta-2024
-  deadline:
-    - "2023-12-15 23:59"
-    - "2024-04-12 23:59"
-  comment: "Two review cycles: December, April"
-  date: September 16–20
-  place: Vienna, Austria
+  year: 2025
+  link: https://conf.researchr.org/home/issta-2025
+  deadline: "2024-10-31 23:59"
+  date: June 25–28
+  place: Trondheim, Norway
   rank: A
   tags: [TEST]
 
 - name: ICST
   description: IEEE International Conference on Software Testing, Verification and Validation
-  year: 2024
-  link: https://conf.researchr.org/home/icst-2024
-  deadline: "2023-10-25 23:59"
-  comment: Abstract deadline on 18 October
-  date: May 27-31
-  place: Toronto, Canada
+  year: 2025
+  link: https://conf.researchr.org/home/icst-2025
+  deadline: "2025-09-25 23:59"
+  comment: Abstract deadline on 18 September
+  date: March 31 - April 04
+  place: Naples, Italy
   rank: A
   tags: [TEST]
 
