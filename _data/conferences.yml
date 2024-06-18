@@ -217,6 +217,16 @@
   rank: Journal
   tags: [SE, HCI]
 
+- name: SAC
+  description: ACM/SIGAPP Symposium On Applied Computing
+  year: 2025
+  link: https://www.sigapp.org/sac/sac2025/
+  deadline: "2024-09-20 23:59"
+  date: March 31 – April 4
+  place: Sicily, Italy
+  rank: Multiconference
+  tags: [SE, TEST, SEC, PRIV]
+
 # Testing
 
 - name: ISSTA
