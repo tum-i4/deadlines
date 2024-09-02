@@ -294,11 +294,11 @@
 
 - name: FTW
   description: International Workshop on Test Flakiness (co-located with ICSE)
-  year: 2024
-  link: https://conf.researchr.org/home/icse-2024/ftw-2024#the-1st-international-workshop-on-test-flakiness-ftw-2024
-  deadline: "2023-12-07 23:59"
-  date: April 14–20
-  place: Lisbon, Portugal
+  year: 2025
+  link: https://conf.researchr.org/home/icse-2025/ftw-2025
+  deadline: "2024-11-11 23:59"
+  date: April 27 – May 3
+  place: Ottawa, Ontario, Canada
   rank: unranked
   tags: [TEST]
 
