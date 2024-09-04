@@ -262,12 +262,12 @@
 
 - name: ICST (Industry Track)
   description: IEEE International Conference on Software Testing, Verification and Validation
-  year: 2024
-  link: https://conf.researchr.org/track/icst-2024/icst-2024-industry
-  deadline: "2023-10-25 23:59"
+  year: 2025
+  link: https://conf.researchr.org/track/icst-2025/icst-2025-industry
+  deadline: "2024-10-25 23:59"
   comment: Abstract deadline on 18 October
-  date: May 27-31
-  place: Toronto, Canada
+  date: March 31 - April 04
+  place: Naples, Italy
   rank: A
   tags: [TEST]
 
