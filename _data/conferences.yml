@@ -161,12 +161,12 @@
 
 - name: ICSME
   description: International Conference on Software Maintenance and Evolution
-  year: 2023
-  link: https://conf.researchr.org/home/icsme-2023
-  deadline: "2023-04-27 23:59"
-  comment: Abstract deadline on 20 April
-  date: October 1–6
-  place: Bogotá, Colombia
+  year: 2025
+  link: https://conf.researchr.org/home/icsme-2025
+  deadline: "2025-03-13 23:59"
+  comment: Abstract deadline on 06 March
+  date: September 8–13
+  place: Auckland, New Zealand
   rank: A
   tags: [SE]
 
