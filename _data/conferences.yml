@@ -92,12 +92,12 @@
 
 - name: EASE
   description: Evaluation and Assessment in Software Engineering
-  year: 2024
-  link: https://conf.researchr.org/home/ease-2024
-  deadline: "2024-01-12 23:59"
-  comment: Abstract deadline on 11 January
-  date: June 18–21
-  place: Salerno, Italy
+  year: 2025
+  link: https://conf.researchr.org/home/ease-2025
+  deadline: "2025-01-19 23:59"
+  comment: Abstract deadline on 12 January
+  date: June 17–20
+  place: Istanbul, Turkey
   rank: A
   tags: [SE]
 
