@@ -314,11 +314,11 @@
 
 - name: CCIW
   description: CI/CD Industry Workshop (co-located with ICST)
-  year: 2024
+  year: 2025
   link: https://conf.researchr.org/home/icst-2024/cciw-2024
-  deadline: "2024-01-29 23:59"
-  date: May 27–31
-  place: Toronto, Canada
+  deadline: "2025-01-03 23:59"
+  date: March 31-April 4
+  place: Naples, Italy
   rank: unranked
   tags: [SE, TEST]
 
