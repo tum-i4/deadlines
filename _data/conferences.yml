@@ -284,11 +284,12 @@
 
 - name: AST
   description: International Conference on Automation of Software Test (co-located with ICSE)
-  year: 2024
+  year: 2025
   link: https://conf.researchr.org/home/ast-2024
-  deadline: "2023-12-10 23:59"
-  date: April 15–16
-  place: Lisbon, Portugal
+  deadline: "2024-11-23 23:59"
+  comment: "Abstract deadline on 2024-11-19"
+  date: April 26–May 04
+  place: Ottawa, Canada
   rank: C
   tags: [TEST]
 
