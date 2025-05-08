@@ -282,6 +282,17 @@
   rank: A
   tags: [TEST]
 
+- name: ISSRE (Industry Track)
+  description: International Symposium on Software Reliability Engineering
+  year: 2025
+  link: https://issre.github.io/2025/
+  deadline: "2025-07-05 23:59"
+  comment: Abstract deadline on 28 June
+  date: October 21–24
+  place: São Paulo, Brazil
+  rank: A
+  tags: [TEST]
+
 - name: AST
   description: International Conference on Automation of Software Test (co-located with ICSE)
   year: 2025
