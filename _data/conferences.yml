@@ -140,12 +140,12 @@
 
 - name: ESEC/FSE
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-  year: 2025
-  link: https://conf.researchr.org/home/fse-2025
-  deadline: "2024-09-12 23:59"
-  comment: Mandatory paper registration on 5 September
-  date: July 23–27
-  place: Trondheim, Norway
+  year: 2026
+  link: https://conf.researchr.org/home/fse-2026
+  deadline: "2025-09-11 23:59"
+  comment: Mandatory paper registration on 4 September
+  date: July 5-9
+  place: Montreal, Canada
   rank: A*
   tags: [SE]
 
