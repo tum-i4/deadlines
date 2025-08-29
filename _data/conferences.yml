@@ -151,11 +151,11 @@
 
 - name: ESEC/FSE (Industry Track)
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
-  year: 2024
-  link: https://2024.esec-fse.org/track/fse-2024-industry
-  deadline: "2024-02-08 23:59"
-  date: July 15–19
-  place: Porto de Galinhas, Brazil
+  year: 2026
+  link: https://conf.researchr.org/track/fse-2026/fse-2026-industry-papers
+  deadline: "2026-01-22 23:59"
+  date: July 5-9
+  place: Montreal, Canada
   rank: A*
   tags: [SE]
 
