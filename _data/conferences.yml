@@ -182,12 +182,12 @@
 
 - name: SANER
   description: International Conference on Software Analysis, Evolution and Reengineering
-  year: 2025
-  link: https://conf.researchr.org/home/saner-2025
-  deadline: "2024-10-11 23:59"
-  comment: Abstract deadline on 4 October
-  date: March 4–7
-  place: Montréal, Canada
+  year: 2026
+  link: https://conf.researchr.org/home/saner-2026
+  deadline: "2024-10-16 23:59"
+  comment: Abstract deadline on 9 October
+  date: March 7-20
+  place: Limassol, Cyprus
   rank: A
   tags: [SE]
 
