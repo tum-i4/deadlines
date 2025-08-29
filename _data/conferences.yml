@@ -305,12 +305,12 @@
   tags: [TEST]
 
 - name: FTW
-  description: International Workshop on Test Flakiness (co-located with ICSE)
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025/ftw-2025
-  deadline: "2024-11-11 23:59"
-  date: April 27 – May 3
-  place: Ottawa, Ontario, Canada
+  description: International Flaky Tests Workshop (FTW) (co-located with ICSE)
+  year: 2026
+  link: https://conf.researchr.org/home/icse-2026/ftw-2026
+  deadline: "2025-10-20 23:59"
+  date: April 12-18
+  place: Rio de Janeiro, Brazil
   rank: unranked
   tags: [TEST]
 
