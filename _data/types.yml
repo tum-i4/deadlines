@@ -3,11 +3,3 @@
   tag: SE
 - name: Testing
   tag: TEST
-- name: Security
-  tag: SEC
-- name: Privacy
-  tag: PRIV
-- name: Transportation
-  tag: AUTO
-- name: Human Factors
-  tag: HCI

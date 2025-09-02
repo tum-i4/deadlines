@@ -37,7 +37,7 @@ Descriptions of the fields:
 | `comment`     | Additional info on the deadline, e.g. a separate Abstract deadline      |
 | `date`        | When the conference is happening                                        |
 | `place`       | Where the conference is happening                                       |
-| `tags`        | One or multiple tags: `SE`, `TEST`, `SEC`, `PRIV`, or `AUTO`            |
+| `tags`        | One or multiple tags: `SE`, `TEST`                                      |
 
 Fields marked with asterisk (\*) are required.
 
