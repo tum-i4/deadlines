@@ -204,12 +204,22 @@
 
 - name: MSR
   description: Mining Software Repositories Conference
-  year: 2023
-  link: https://conf.researchr.org/home/msr-2023
-  deadline: "2023-01-19 23:59"
-  comment: Abstract deadline on 16 January
-  date: May 15–16
-  place: Melbourne, Australia
+  year: 2026
+  link: https://2026.msrconf.org/track/msr-2026-technical-papers
+  deadline: "2025-10-23 23:59"
+  comment: Abstract deadline on 20 October
+  date: April 12-18
+  place: Rio de Janeiro, Brazil
+  rank: A
+  tags: [SE]
+
+- name: MSR
+  description: Mining Software Repositories Conference (Industry)
+  year: 2026
+  link: https://2026.msrconf.org/track/msr-2026-industry-track
+  deadline: "2025-11-23 23:59"
+  date: April 12-18
+  place: Rio de Janeiro, Brazil
   rank: A
   tags: [SE]
 
