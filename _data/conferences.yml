@@ -247,6 +247,17 @@
   rank: Multiconference
   tags: [SE, TEST]
 
+- name: DSN
+  description: IEEE/IFIP International Conference on Dependable Systems and Networks
+  year: 2026
+  link: https://dsn2026.github.io/
+  deadline: "2025-12-04 23:59"
+  comment: Abstract deadline on 27 Nov 2025
+  date: June 22 - June 25
+  place: Charlotte, North Carolina, United States
+  rank: A
+  tags: [SE]
+
 # Testing
 
 - name: ISSTA
