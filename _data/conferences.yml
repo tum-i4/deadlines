@@ -70,12 +70,12 @@
 
 - name: ESEM
   description: Empirical Software Engineering and Measurement
-  year: 2024
-  link: https://conf.researchr.org/track/esem-2024/esem-2024-technical-track
-  deadline: "2024-05-06 23:59"
-  comment: Abstract deadline on 26 April
-  date: October 20–25
-  place: Barcelona, Spain
+  year: 2026
+  link: https://conf.researchr.org/track/eseiw-2026/eseiw-2026-esem---technical-track
+  deadline: "2026-04-29 23:59"
+  comment: Abstract deadline on 22 April
+  date: October 4-9
+  place: Munich, Germany
   rank: A
   tags: [SE]
 
@@ -129,12 +129,12 @@
 
 - name: ASE
   description: IEEE/ACM International Conference on Automated Software Engineering
-  year: 2024
-  link: https://conf.researchr.org/home/ase-2024
-  deadline: "2024-06-07 23:59"
-  comment: Abstract deadline on 31 May
-  date: October 27–November 1
-  place: Sacramento, California, United States
+  year: 2026
+  link: https://conf.researchr.org/home/ase-2026
+  deadline: "2026-03-26 23:59"
+  comment: Major Revisions possible.
+  date: October 12-16
+  place: Munich, Germany
   rank: A*
   tags: [SE]
 
@@ -161,22 +161,23 @@
 
 - name: ICSME
   description: International Conference on Software Maintenance and Evolution
-  year: 2025
-  link: https://conf.researchr.org/home/icsme-2025
-  deadline: "2025-03-13 23:59"
-  comment: Abstract deadline on 06 March
-  date: September 8–13
-  place: Auckland, New Zealand
+  year: 2026
+  link: https://conf.researchr.org/home/icsme-2026
+  deadline: "2026-03-06 23:59"
+  comment: Abstract deadline on 27 Feb.
+  date: September 14–18
+  place: Benevento, Italy
   rank: A
   tags: [SE]
 
 - name: ICSME (Industry Track)
   description: International Conference on Software Maintenance and Evolution
-  year: 2023
-  link: https://conf.researchr.org/track/icsme-2023/icsme-2023-industry-track
-  deadline: "2023-07-06 23:59"
-  date: October 1–6
-  place: Bogotá, Colombia
+  year: 2026
+  link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track
+  deadline: "2026-05-15 23:59"
+  comment: Abstract deadline on 8 May.
+  date: September 14–18
+  place: Benevento, Italy
   rank: A
   tags: [SE]
 
@@ -294,12 +295,12 @@
 
 - name: ISSRE
   description: International Symposium on Software Reliability Engineering
-  year: 2024
-  link: https://issre.github.io/2024/
-  deadline: "2024-05-10 23:59"
-  comment: Abstract deadline on 3 May
-  date: October 28–31
-  place: Tsukuba, Japan
+  year: 2026
+  link: https://cyprusconferences.org/issre2026/
+  deadline: "2026-04-17 23:59"
+  comment: Abstract deadline on 10 April
+  date: October 20–23
+  place: Limassol, Cyprus
   rank: A
   tags: [TEST]
 
