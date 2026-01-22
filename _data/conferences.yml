@@ -26,14 +26,12 @@
   
 - name: ICSE
   description: International Conference on Software Engineering
-  year: 2025
-  link: https://conf.researchr.org/home/icse-2025
-  deadline:
-    - "2024-03-22 23:59"
-    - "2024-08-02 23:59"
-  comment: "Two review cycles: March, August; Abstract deadlines one week before the submission deadlines."
-  date: Apri 2-18
-  place: Rio de Janeiro, Brazil
+  year: 2027
+  link: https://conf.researchr.org/home/icse-2027
+  deadline: "2026-06-30 23:59"
+  comment: Abstract due 23 June.
+  date: April 25-May 1
+  place: Dublin, Ireland
   rank: A*
   tags: [SE]
 
