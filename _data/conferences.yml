@@ -99,6 +99,17 @@
   rank: A
   tags: [SE]
 
+- name: EASE (Industry)
+  description: Evaluation and Assessment in Software Engineering
+  year: 2026
+  link: https://conf.researchr.org/track/ease-2026/ease-2026-industry-papers
+  deadline: "2026-03-02 23:59"
+  comment: Abstract deadline on 23 February 2026
+  date: June 9–12
+  place: Glasgow, United Kingdom
+  rank: A
+  tags: [SE]
+
 - name: OOPSLA
   description: Object Oriented Programming Systems Languages and Applications (co-located with SPLASH)
   year: 2023
