@@ -2,6 +2,16 @@
 # TODO: list tracks of a conference with the conference
 
 # Software Engineering
+- name: ASPLOS
+  description: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+  year: 2025
+  link: https://conf.researchr.org/home/RE-2025
+  deadline: "2026-09-09 23:59"
+  date: April 11-15
+  place: Heraklion, Crete, Greece
+  rank: A*
+  tags: [SE]
+
 - name: RE
   description: IEEE International Requirements Engineering 2025 conference
   year: 2025
@@ -146,7 +156,18 @@
   place: Munich, Germany
   rank: A*
   tags: [SE]
-
+  
+- name: FSE
+  description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+  year: 2027
+  link: https://conf.researchr.org/dates/fse-2027
+  deadline: "2026-10-02 23:59"
+  comment: 
+  date: July 12-16
+  place: Shenzhen, China
+  rank: A*
+  tags: [SE]
+  
 - name: ESEC/FSE
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
   year: 2026
@@ -189,7 +210,18 @@
   place: Benevento, Italy
   rank: A
   tags: [SE]
-
+  
+- name: SANER
+  description: International Conference on Software Analysis, Evolution and Reengineering
+  year: 2027
+  link: https://conf.researchr.org/home/saner-2027
+  deadline: "2026-09-25 23:59"
+  comment: Abstract deadline on 21 September
+  date: March 9-12
+  place: Ricjmond, Virginia, USA
+  rank: A
+  tags: [SE]
+  
 - name: SANER
   description: International Conference on Software Analysis, Evolution and Reengineering
   year: 2026
@@ -269,7 +301,17 @@
   tags: [SE]
 
 # Testing
-
+- name: ICST
+  description: IEEE International Conference on Software Testing, Verification and Validation
+  year: 2027
+  link: https://conf.researchr.org/track/icst-2027/
+  deadline: "2026-11-02 23:59"
+  comment: There may be an abstract deadline that has not yet been announced.
+  date: May 17-21
+  place: San Sebastian, Spain
+  rank: A
+  tags: [TEST]
+ 
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
   year: 2026
@@ -364,4 +406,61 @@
   rank: unranked
   tags: [SE, TEST]
 
+ # Security
+- name: NDSS
+  description: The Network and Distributed System Security (NDSS) Symposium
+  year: 2027
+  link: https://www.ndss-symposium.org/ndss2027/
+  deadline: "2026-08-19 23:59"
+  date: March 22-26
+  place: Seoul, Republic of Korea
+  rank: A*
+  tags: [SEC]
+  
+- name: IEEE S&P
+  description: Symposium on Security and Privacy
+  year: 2027
+  link: https://sp2027.ieee-security.org/
+  deadline: "2026-11-17 23:59"
+  comment: Abstract deadline on 10 November
+  date: TBD
+  place: MONTREAL, CANADA
+  rank: A*
+  tags: [SEC]  
+  
+ - name: USENIX
+  description: USENIX Security Symposium
+  year: 2027
+  link: https://sp2027.ieee-security.org/
+  deadline: 
+    - "2026-08-25 23:59"
+    - "2027-01-26 23:59"
+  comment: "2 cycles. Paper registration deadline on 18 August/19 January"
+  date: August 11-13
+  place: Denver, CO,USA
+  rank: A*
+  tags: [SEC] 
+  
+ - name: CCS
+  description: The ACM Conference on Computer and Communications Security
+  year: 2027
+  link: https://www.sigsac.org/ccs/CCS2027/
+  comment: Coming in October
+  date: TBD
+  place: Atlanta, USA
+  rank: A*
+  tags: [SEC]
+
+- name: ASIACCS
+  description: ACM ASIA Conference on Computer and Communications Security
+  year: 2027
+  link: https://asiaccs2027.cityu.edu.mo/home/
+  deadline: 
+      - "2026-08-21 23:59"
+      - "2027-12-11 23:59"
+  comment: 2 Cycles
+  date: July 12-16
+  place: Macau
+  rank: A
+  tags: [SEC] 
 
