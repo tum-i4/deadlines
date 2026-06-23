@@ -218,18 +218,18 @@
   deadline: "2026-09-25 23:59"
   comment: Abstract deadline on 21 September
   date: March 9-12
-  place: Ricjmond, Virginia, USA
+  place: Richmond, Virginia, USA
   rank: A
   tags: [SE]
   
-- name: SANER
+- name: SANER (Industrial Track)
   description: International Conference on Software Analysis, Evolution and Reengineering
-  year: 2026
-  link: https://conf.researchr.org/home/saner-2026
-  deadline: "2024-10-16 23:59"
-  comment: Abstract deadline on 9 October
-  date: March 7-20
-  place: Limassol, Cyprus
+  year: 2027
+  link: https://conf.researchr.org/track/saner-2027/saner-2027-industrial-track
+  deadline: "2026-10-23 23:59"
+  comment: Abstract deadline on 19 October
+  date: March 9-12
+  place: Richmond, Virginia, USA
   rank: A
   tags: [SE]
 
