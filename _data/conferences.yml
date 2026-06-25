@@ -22,7 +22,7 @@
   place: Valencia, Spain
   rank: A
   tags: [SE]
-  
+
 - name: ICSA
   description: IEEE International Conference on Software Architecture
   year: 2025
@@ -33,7 +33,7 @@
   place: Odense, Denmark
   rank: A
   tags: [SE]
-  
+
 - name: ICSE
   description: International Conference on Software Engineering
   year: 2027
@@ -156,18 +156,18 @@
   place: Munich, Germany
   rank: A*
   tags: [SE]
-  
+
 - name: FSE
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
   year: 2027
   link: https://conf.researchr.org/dates/fse-2027
   deadline: "2026-10-02 23:59"
-  comment: 
+  comment:
   date: July 12-16
   place: Shenzhen, China
   rank: A*
   tags: [SE]
-  
+
 - name: ESEC/FSE
   description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
   year: 2026
@@ -210,7 +210,7 @@
   place: Benevento, Italy
   rank: A
   tags: [SE]
-  
+
 - name: SANER
   description: International Conference on Software Analysis, Evolution and Reengineering
   year: 2027
@@ -221,7 +221,7 @@
   place: Richmond, Virginia, USA
   rank: A
   tags: [SE]
-  
+
 - name: SANER (Industrial Track)
   description: International Conference on Software Analysis, Evolution and Reengineering
   year: 2027
@@ -311,7 +311,7 @@
   place: San Sebastian, Spain
   rank: A
   tags: [TEST]
- 
+
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
   year: 2026
@@ -406,7 +406,7 @@
   rank: unranked
   tags: [SE, TEST]
 
- # Security
+# Security
 - name: NDSS
   description: The Network and Distributed System Security (NDSS) Symposium
   year: 2027
@@ -416,7 +416,7 @@
   place: Seoul, Republic of Korea
   rank: A*
   tags: [SEC]
-  
+
 - name: IEEE S&P
   description: Symposium on Security and Privacy
   year: 2027
@@ -426,22 +426,22 @@
   date: TBD
   place: MONTREAL, CANADA
   rank: A*
-  tags: [SEC]  
-  
- - name: USENIX
+  tags: [SEC]
+
+- name: USENIX
   description: USENIX Security Symposium
   year: 2027
   link: https://sp2027.ieee-security.org/
-  deadline: 
+  deadline:
     - "2026-08-25 23:59"
     - "2027-01-26 23:59"
   comment: "2 cycles. Paper registration deadline on 18 August/19 January"
   date: August 11-13
   place: Denver, CO,USA
   rank: A*
-  tags: [SEC] 
-  
- - name: CCS
+  tags: [SEC]
+
+- name: CCS
   description: The ACM Conference on Computer and Communications Security
   year: 2027
   link: https://www.sigsac.org/ccs/CCS2027/
@@ -455,12 +455,11 @@
   description: ACM ASIA Conference on Computer and Communications Security
   year: 2027
   link: https://asiaccs2027.cityu.edu.mo/home/
-  deadline: 
-      - "2026-08-21 23:59"
-      - "2027-12-11 23:59"
+  deadline:
+    - "2026-08-21 23:59"
+    - "2027-12-11 23:59"
   comment: 2 Cycles
   date: July 12-16
   place: Macau
   rank: A
-  tags: [SEC] 
-
+  tags: [SEC]
